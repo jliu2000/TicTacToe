@@ -2,8 +2,8 @@
 //  TicTacToeUITests.swift
 //  TicTacToeUITests
 //
-//  Created by Jake Papaalia on 11/15/16.
-//  Copyright © 2016 Jake Papalia. All rights reserved.
+//  Created by Jason Liu on 12/2/16.
+//  Copyright © 2016 Jason Liu. All rights reserved.
 //
 
 import XCTest
